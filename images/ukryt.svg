@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" role="img" aria-labelledby="title desc">
+  <title id="title">Úkryt na první noc</title>
+  <desc id="desc">Jednoduchý domek z prken na trávě, u dveří svítí pochodeň a na obloze je měsíc.</desc>
+  <rect width="720" height="320" fill="#202c4b"/>
+  <path d="M65 40h5v5h-5zM180 70h4v4h-4zM390 35h5v5h-5zM500 80h4v4h-4zM650 130h5v5h-5zM90 160h4v4h-4z" fill="#dde3ef"/>
+  <path d="M580 35h40v40h-40z" fill="#f3eac7"/>
+  <path d="M0 260h720v60H0z" fill="#72513b"/>
+  <path d="M0 250h720v15H0z" fill="#649248"/>
+  <path d="M235 125h250v125H235z" fill="#a57c4e"/>
+  <path d="M220 110h280v20H220z" fill="#64452f"/>
+  <path d="M235 155h250M235 185h250M235 215h250M295 130v25M410 155v30M280 185v30M450 215v35" stroke="#755235" stroke-width="4"/>
+  <path d="M340 170h50v80h-50z" fill="#513c2f"/>
+  <path d="M378 210h6v6h-6z" fill="#d8bd76"/>
+  <path d="M430 155h8v34h-8z" fill="#4a3528"/>
+  <path d="M424 144h20v18h-20z" fill="#efa23e"/>
+  <path d="M430 141h8v14h-8z" fill="#fff0a1"/>
+  <path d="M130 205h14v45h-14z" fill="#60452e"/>
+  <path d="M105 158h65v55h-65zM117 142h40v25h-40z" fill="#365e40"/>
+</svg>
